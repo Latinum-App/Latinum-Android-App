@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213925412408",
+    "project_id": "latinum-fb1b5",
+    "storage_bucket": "latinum-fb1b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213925412408:android:bcb5fe0e6e2227acf3f0cd",
+        "android_client_info": {
+          "package_name": "com.education.latinum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213925412408-pfl1vhajoq0ooobqdqp8bb95ph537n4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.education.latinum",
+            "certificate_hash": "543a0f80a65428d91d4caf8d7d91fe5832d12be4"
+          }
+        },
+        {
+          "client_id": "213925412408-7banndfpciu7m7oovvagple4riutbmio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZuPFFgujY_5C_WAFsexCs6ttUl029B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213925412408-7banndfpciu7m7oovvagple4riutbmio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
